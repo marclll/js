@@ -5,6 +5,9 @@ body,html{
 	margin:0;
 }
 
+body{
+}
+
 header{
 	display:flex;
 	justify-content: space-between;
@@ -30,7 +33,7 @@ main{
 	width:100px;
 }
 
-footer>div{
+footer{
 	height:100px;
 	width:100%;
 	background-color: purple;
